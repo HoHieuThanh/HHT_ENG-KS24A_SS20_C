@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// Khai bao cau truc Sach
 typedef struct {
     int maSach;
     char tenSach[50];
